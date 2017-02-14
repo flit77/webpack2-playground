@@ -1,4 +1,5 @@
 import {groupBy} from 'lodash/collection';
+import './style.scss';
 import people from './people';
 
 const managerGroups = groupBy(people, 'manager');
