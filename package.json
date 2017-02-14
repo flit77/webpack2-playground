@@ -1,0 +1,23 @@
+{
+  "name": "webpack2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flit77/webpack2-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flit77/webpack2-playground/issues"
+  },
+  "homepage": "https://github.com/flit77/webpack2-playground#readme",
+  "devDependencies": {
+    "webpack": "^2.2.0"
+  }
+}
