@@ -38,7 +38,10 @@ const config = {
       }]
     }]
   },
-  plugins: [extractCSS]
+  plugins: [
+    extractCSS,
+    new webpack.NamedModulesPlugin()
+  ]
 };
 
 module.exports = config;

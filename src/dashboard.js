@@ -4,4 +4,4 @@ console.log('Loaded!', d3);
 
 export const draw = () => {
   console.log('Draw!');
-}
+};
